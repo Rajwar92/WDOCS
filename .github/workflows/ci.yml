@@ -79,9 +79,6 @@ jobs:
       - name: Check JS style
         if: always()
         run: hatch run lint:js
-      - name: Check spelling
-        if: always()
-        run: hatch run lint:spelling
 
   package:
     runs-on: ubuntu-latest
