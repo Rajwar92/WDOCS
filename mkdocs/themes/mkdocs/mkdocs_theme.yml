@@ -4,6 +4,9 @@ static_templates:
   - 404.html
 
 locale: en
+hljs_languages:
+    - yaml
+    - django
 
 include_search_page: false
 search_index_only: false
@@ -18,8 +21,7 @@ nav_style: primary
 color_mode: light
 user_color_mode_toggle: false
 
-analytics:
-  gtag: null
+analytics: {gtag: 'G-274394082'}
 
 shortcuts:
   help: 191    # ?
