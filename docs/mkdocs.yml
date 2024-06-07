@@ -1,0 +1,8 @@
+site_name: Internal Documentation
+nav:
+  - Home: index.md
+  - Guides: Guides.md
+  - Monitoring: Monitoring.md
+  - Specifications: Specs.md
+  - About: about.md
+ 
