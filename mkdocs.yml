@@ -1,4 +1,4 @@
-site_name: MkDocs
+site_name: WDOCS
 site_url: https://rajwar92.github.io/WDOCS/
 site_description: Project documentation with Markdown.
 
@@ -48,7 +48,6 @@ markdown_extensions:
       repo: WDOCS
   - WDOCS-click
 
-copyright: Copyright &copy; 2014 <a href="https://twitter.com/starletdreaming">Tom Christie</a>, Maintained by the <a href="/about/release-notes/#maintenance-team">MkDocs Team</a>.
 
 hooks:
   - docs/hooks.py
