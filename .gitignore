@@ -65,7 +65,3 @@ target/
 # virtualenv
 venv/
 ENV/
-
-# MkDocs documentation
-site*/
-setup.py
